@@ -1,6 +1,6 @@
 # U-Net Image Segmentation Project
 
-Questo progetto implementa un modello U-Net per la segmentazione di immagini, utilizzando dataset personalizzati e librerie Python di deep learning e computer vision. Il notebook principale (`CI_Unet_model.ipynb`) guida attraverso tutte le fasi del processo: dal caricamento dei dati all'addestramento del modello, fino alla visualizzazione dei risultati.
+Questo progetto implementa un modello U-Net per la segmentazione di immagini, utilizzando dataset personalizzati e librerie Python di deep learning e computer vision. Il notebook principale (`CI_Unet_model.ipynb`) guida attraverso tutte le fasi del processo: dal caricamento dei dati all'addestramento del modello, fino alla visualizzazione dei risultati. In particolare ci siamo concentrati sulla segmentazione di immagini satellitari. 
 
 ## 📁 Struttura del Progetto
 
